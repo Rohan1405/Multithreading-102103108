@@ -49,10 +49,12 @@ Key findings from the benchmarking experiments include:
 Visualizations aid in presenting benchmarking results effectively:
 
 1. **Thread vs Time Taken**: Illustrates the relationship between thread count and execution time.
-    ![Thread vs Time Taken](Time_takenVSNumber_of_threads.png)
-2. **CPU Usage vs Threads**: Depicts CPU utilization during matrix multiplication experiments.
-   ![cpu_usage VS Number_of_threads](cpu_usageVSNumber_of_threads.png)
-3. **Cores Utilization**: Shows CPU utilization over the course of experiments, highlighting resource utilization.
+    ![Thread vs Time Taken](Time_taken_VS_Number_of_threads.png)
+
+2. **CPU Usage vs Threads**: Depicts CPU utilization during matrix multiplication experiments.<br>
+    ![cpu_usage VS Number_of_threads](cpu_usage_VS_Number_of_threads.png)
+   
+4. **Cores Utilization**: Shows CPU utilization over the course of experiments, highlighting resource utilization
    ![cpu_cores](cpu_cores.png)
 
 ## Conclusion
